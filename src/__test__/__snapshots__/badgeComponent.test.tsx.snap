@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+[
+  <Image
+    source={
+      {
+        "testUri": "../../../src/assets/images/user.png",
+      }
+    }
+  />,
+  <Text
+    style={
+      {
+        "fontFamily": "Poppins",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "marginBottom": 20,
+        "marginTop": 20,
+      }
+    }
+  >
+    Hi, Carlos
+  </Text>,
+]
+`;

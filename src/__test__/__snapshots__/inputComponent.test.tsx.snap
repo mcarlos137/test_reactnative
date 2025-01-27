@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`input component renders correctly 1`] = `
+<View
+  style={
+    {
+      "borderColor": "#CDD7DD",
+      "borderRadius": 8,
+      "borderWidth": 1,
+      "height": 53,
+      "marginTop": 20,
+      "padding": 10,
+      "width": 299,
+    }
+  }
+>
+  <Text
+    style={
+      {
+        "color": "#8F979C",
+        "fontFamily": "Roboto",
+        "fontSize": 10,
+        "fontWeight": 500,
+        "marginBottom": 3,
+      }
+    }
+  >
+    First Name
+  </Text>
+  <TextInput
+    inputMode="text"
+    maxLength={30}
+    onChangeText={[Function]}
+    style={
+      {
+        "color": "#092333",
+        "fontFamily": "Roboto",
+        "fontSize": 16,
+        "fontWeight": 400,
+      }
+    }
+    value="Carlos"
+  />
+</View>
+`;
